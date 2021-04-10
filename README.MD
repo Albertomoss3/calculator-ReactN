@@ -1,4 +1,4 @@
-# Aplicacion Calculadora en ReactNative ( TypeScript )
+# Aplicación Calculadora en ReactNative ( TypeScript )
 
 ## Comenzando 🚀
 _Imgen de la APP._
